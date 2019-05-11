@@ -1,2 +1,9 @@
-.App {
+.logs {
+  background: #263238;
+  color: #ffffff;
+  margin: 2em;
+  overflow-x: scroll;
+}
+.logs pre:hover {
+  background: #455a64;
 }
