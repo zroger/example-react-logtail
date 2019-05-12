@@ -2,8 +2,15 @@
   background: #263238;
   color: #ffffff;
   margin: 2em;
+  padding: 10px;
   overflow-x: scroll;
 }
 .logs pre:hover {
   background: #455a64;
+}
+
+.intersection-target {
+  font-size: 10px;
+  padding: 10px;
+  text-align: center;
 }
