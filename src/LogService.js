@@ -7,7 +7,7 @@ const LogService = {
    * until the logs are exhausted, with a delay between each one.
    */
   poll(callback) {
-    fetch("/logs.txt")
+    fetch(window.location.href + "/logs.txt")
       .then(response => {
         return response.text();
       })
