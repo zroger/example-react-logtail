@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/example-react-logtail/static/css/main.73e23e2b.chunk.css",
+    "main.js": "/example-react-logtail/static/js/main.c21c2beb.chunk.js",
+    "main.js.map": "/example-react-logtail/static/js/main.c21c2beb.chunk.js.map",
+    "runtime~main.js": "/example-react-logtail/static/js/runtime~main.83632b98.js",
+    "runtime~main.js.map": "/example-react-logtail/static/js/runtime~main.83632b98.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/example-react-logtail/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/example-react-logtail/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/example-react-logtail/index.html",
+    "precache-manifest.f0ce716893ec44353ac8b0f422f918b1.js": "/example-react-logtail/precache-manifest.f0ce716893ec44353ac8b0f422f918b1.js",
+    "service-worker.js": "/example-react-logtail/service-worker.js",
+    "static/css/main.73e23e2b.chunk.css.map": "/example-react-logtail/static/css/main.73e23e2b.chunk.css.map"
+  }
+}
